@@ -13,7 +13,7 @@
   <br/>
   Filter by Wi-Fi quality, power outlets, quiet zones, and more — all visualized on an interactive map.
   <br/><br/>
-  Built by <strong>Behzat Medeni</strong>
+  Developed by a <strong>five-member team during Erasmus</strong>, including <strong>Çağdaş Öztürk</strong>.
 </p>
 
 ---
@@ -573,13 +573,18 @@ const api = axios.create({
 
 ---
 
-## 👤 Author
+## 👤 Team & Project Background
 
-**Behzat Medeni**
-- GitHub: [@behzatmedeni](https://github.com/behzatmedeni)
+Developed collaboratively by a **five-member team during the Erasmus exchange programme**. The project brought together teamwork and full-stack web development to help students discover suitable study spaces in Riga, Latvia.
+
+**Çağdaş Öztürk — Project Team Member**
+
+- Collaborated with four Erasmus teammates to develop Where to Study.
+- This repository showcases the shared project as part of my software development portfolio.
+- GitHub: [@CagdsOz](https://github.com/CagdsOz)
 
 ---
 
 <p align="center">
-  Made with ☕ by <strong>Behzat Medeni</strong> — for students who need the perfect study spot.
+  Made with ☕ by a <strong>five-member Erasmus team</strong> — for students who need the perfect study spot.
 </p>
