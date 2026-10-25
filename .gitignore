@@ -1,0 +1,15 @@
+# Java build outputs
+**/target/
+
+# Node.js dependencies
+**/node_modules/
+**/dist/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# IDE files
+.idea/
+.vscode/
